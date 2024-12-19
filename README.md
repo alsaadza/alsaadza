@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Jayden Cruz</h1>
+<h1 align="center">Hey there 👋, I'm Zain Alsaad</h1>
 <h3 align="center">Computer Science & Data Science Scholar @ Belmont University.</h3>
 
 - 🖥 Check out my personal website: [(alsaadza.github.io](https://alsaadza.github.io)!
