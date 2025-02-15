@@ -12,9 +12,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="azure" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/azure/azure-original.svg" alt="azure2" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure2" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
 
 </a> </p>
