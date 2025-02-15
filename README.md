@@ -2,9 +2,8 @@
 <h3 align="center">Data Scientist & Programmer</h3>
 
 - 🖥 Check out my personal website: [(alsaadza.github.io)](https://alsaadza.github.io)!
-- 📫 How to reach me: **zainalsaad04@gmail.com** or **visit my Linktree**!
+- 📫 How to reach me: **zainalsaad04@gmail.com** or **[visit my Linktree](linktr.ee/alsaadza)**!
 - ⚡ Fun fact: I'm an Iraqi American!
-
 
 
 <h3 align="left">Languages and Tools:</h3>
