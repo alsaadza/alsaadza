@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Zain Alsaad!</h1>
 <h3 align="center">Professional-level Data Scientist & Programmer</h3>
 
-- 🖥 Check out my personal website: [alsaadza.github.io](https://alsaadza.github.io)!
+- 🖥 Check out my personal website: [alsaadza.github.io](https://alsaadza.github.io).
 - 📫 How to reach me: **zainalsaad04@gmail.com** or **[visit my Linktree](https://linktr.ee/alsaadza)**. My preferred method of communication is through email. I will typically respond within 24 hours.
 - ⚡ Fun fact: I'm an Iraqi American!
 
