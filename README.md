@@ -3,7 +3,6 @@
 
 - 🖥 Check out my personal website: [alsaadza.github.io](https://alsaadza.github.io).
 - 📫 How to reach me: **zainalsaad04@gmail.com** or **[visit my Linktree](https://linktr.ee/alsaadza)**. My preferred method of communication is through email. I will typically respond within 24 hours.
-- ⚡ Fun fact: I'm an Iraqi American!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
